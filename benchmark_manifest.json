@@ -1,0 +1,22 @@
+{
+  "n_rows": 22212,
+  "n_signals": 125,
+  "seeds": 20,
+  "features": [
+    "rms",
+    "dom_freq_hz",
+    "spec_centroid",
+    "spec_bandwidth",
+    "spec_entropy",
+    "f99",
+    "intermittency",
+    "crest",
+    "kurtosis",
+    "f_n_hz",
+    "R_over_Ropt",
+    "gamma",
+    "mismatch"
+  ],
+  "analytic_r2": 0.7082480097421153,
+  "best_model": "gbrt"
+}
